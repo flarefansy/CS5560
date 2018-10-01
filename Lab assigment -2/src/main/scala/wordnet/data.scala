@@ -1,0 +1,5 @@
+package wordnet
+
+object data {
+
+}
